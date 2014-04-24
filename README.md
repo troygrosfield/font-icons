@@ -14,3 +14,7 @@ Boxes ([demo](https://rawgit.com/troygrosfield/font-icons/master/icons/boxes/dem
 Front to Back ([demo](https://rawgit.com/troygrosfield/font-icons/master/icons/front-to-back/demo.html))
 --------------------
 <img src="https://raw.githubusercontent.com/troygrosfield/font-icons/master/doc/images/back-to-front.png" alt="Front to back" height="100" />
+
+Steps ([demo](https://rawgit.com/troygrosfield/font-icons/master/icons/front-to-back/steps.html))
+--------------------
+<img src="https://raw.githubusercontent.com/troygrosfield/font-icons/master/doc/images/steps.png" alt="Front to back" height="100" />
